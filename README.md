@@ -1,4 +1,6 @@
-# 👋 Olá! Eu sou o Luiz Ghustavo
+# Olá Meu nome é Luiz Ghustavo
+
+>Tenho 17 anos e atualmente estudante de **_Desenvolvimento de Sistemas no Centroweg_**. Tenho muito interesse em seguir minha carreira na área de programação. Sempre buscando aprender mais, focado em evoluir.
 
 🎓 Estudante de **Desenvolvimento de Sistemas** no *CentroWeg*.  
 💻 Apaixonado por programação e sempre buscando aprender mais.  
@@ -7,24 +9,15 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Java, JavaScript, HTML, CSS  
-- **Ferramentas:** Git, GitHub, Eclipse, VS Code  
+- **Linguagens:** Java, MySQL  
+- **Ferramentas:** Git, GitHub, Eclipse
 - **Conceitos:** Programação Orientada a Objetos, lógica, algoritmos
 
 ---
 
 ## 📚 O que estou estudando agora
-- Java avançado  
+- Java
 - Estrutura de dados  
-- Desenvolvimento de projetos completos (backend + frontend)
-
----
-
-## 📂 Projetos
-> *Por enquanto tenho poucos projetos públicos, mas novos repositórios estão chegando!*
-
-- 📘 **Projeto Escolar – Telefone Celular**  
-  Pequeno sistema em Java com POO, cadastro, listagem e remoção de itens.
 
 ---
 
@@ -39,8 +32,8 @@
 ---
 
 ## 🌐 Contato
-📩 **Email:luizghustavortizb@gmail.com**   
+📩 **Email: luizghustavortizb@gmail.com**   
 
 ---
 
-### ✨ Obrigado por visitar meu perfil!
+### ✨ Agradeço por visitar meu perfil e explorar meu trabalho.
