@@ -1,4 +1,6 @@
-# Olá Meu nome é Luiz Ghustavo
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=610000&height=120&section=header"/>
+
+# Olá👋 Meu nome é Luiz Ghustavo
 
 >Tenho 17 anos e atualmente estudante de **_Desenvolvimento de Sistemas no Centroweg_**. Tenho muito interesse em seguir minha carreira na área de programação. Sempre buscando aprender mais, focado em evoluir.
 
