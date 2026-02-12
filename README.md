@@ -2,7 +2,7 @@
 
 # Olá👋 Meu nome é Luiz Ghustavo
 
->Tenho 17 anos e atualmente estudante de **_Desenvolvimento de Sistemas no Centroweg_**. Tenho muito interesse em seguir minha carreira na área de programação. Sempre buscando aprender mais, focado em evoluir.
+>Tenho 17 anos e atualmente estudante de **_Desenvolvimento de Sistemas no Centroweg_**. Tenho muito interesse em seguir minha carreira na área de programação. Sempre buscando em aprender mais, focado em evoluir.
 
 🎓 Estudante de **Desenvolvimento de Sistemas** no *CentroWeg*.  
 💻 Interessado por programação e sempre buscando aprender mais.  
@@ -19,7 +19,7 @@
 
 ## 📚 O que estou estudando agora
 - Java
-- Estrutura de dados  
+- Estrutura de dados
 
 ---
 
